@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning: Vue, Nuxt, TypeScript
+- 👯 I’m looking to collaborate on any kind of projects for begginers
+- 📫 How to reach me: ilya.kirsanov@gmail.com
+
 <!--
 **IlyaKirsanov/ilyakirsanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
