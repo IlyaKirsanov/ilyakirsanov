@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Vue, Nuxt, TypeScript
+- 🌱 I’m currently learning: React, Redux, Vue, Nuxt, TypeScript
 - 👯 I’m looking to collaborate on any kind of projects for begginers
 - 📫 How to reach me: ilya.kirsanov@gmail.com
 
