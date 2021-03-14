@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Phobosys**
 
-- 🌱 I’m currently learning **React, Redux, Vue**
+- 🌱 I’m currently using in work **React, Redux, SASS, TypeScript, Firebase**
 
 - 📫 How to reach me **ilya.kirsanov@gmail.com**
 
