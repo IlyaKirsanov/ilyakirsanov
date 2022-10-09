@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyakirsanov" alt="ilyakirsanov" /> </p>
 
-- 🔭 I’m currently working on **Phobosys**
+- 🔭 I’m currently working on **Intellias**
 
 - 🌱 I’m currently using in work **React, Redux, SASS, TypeScript, Firebase**
 
